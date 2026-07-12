@@ -1,0 +1,6 @@
+@Ajedrez_HostAddress = http://localhost:5282
+
+GET {{Ajedrez_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
