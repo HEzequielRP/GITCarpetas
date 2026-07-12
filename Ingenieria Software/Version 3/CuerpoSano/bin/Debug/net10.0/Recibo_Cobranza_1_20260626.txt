@@ -1,0 +1,13 @@
+
+                ==========================================
+                        RECIBO DE PAGO - CUERPOSANO
+                ==========================================
+                ID Recibo: 1
+                Fecha: 26/06/2026
+                Monto: $2,000.00
+                Forma de Pago: efectivo
+                Estado: PAGADO
+                ------------------------------------------
+                ¡Gracias por su pago!
+                ==========================================
+                Archivo guardado en: C:\Users\herod\GITCarpetas\Ingenieria Software\Version 3\CuerpoSano\bin\Debug\net10.0\Recibo_Cobranza_1_20260626.txt
