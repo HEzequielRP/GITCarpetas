@@ -1,0 +1,6 @@
+@DronesApi_HostAddress = http://localhost:5003
+
+GET {{DronesApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
